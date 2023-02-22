@@ -1,5 +1,5 @@
 export const config = {
-    openingHours: "10:00",
-    closingHours: "17:00",
-    reservationDuration: 0.5
+    openingHours: "09:00",
+    closingHours: "20:00",
+    reservationDuration: 1
 }
